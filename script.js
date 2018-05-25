@@ -1,4 +1,16 @@
+var app = new Vue({
+  el: '#app',
+  data: {
+    message: 'Hello Vue!'
+  }
+})
+
+
+
 var gators = [
+
+ 
+
   {name: "Elvis Vessley",
     hobbies: "surfing, dancing",
     weight: 865,
@@ -16,3 +28,5 @@ var gators = [
     imgSource: "http://www.vaguebuttrue.com/images/1449775760-alligatorclimbsfenceWEBSITE.jpg"
   }
 ]
+
+
